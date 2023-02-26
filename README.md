@@ -3,4 +3,4 @@ loja de vinil para sua comodidade.
 
 
 
-link: https://vinil-store.netlify.app
+link 1: https://vinil-store.netlify.app
